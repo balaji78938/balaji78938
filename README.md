@@ -8,8 +8,8 @@ I’m passionate about technology, problem-solving, and building impactful proje
 
 ## 👨‍🎓 About Me  
 - 🎓 **Education**:  
-    - Persuing **B.Tech** in Computer Science & Engineering – **Mahatma Gandhi Institute of Technology (MGIT), Gandipet, Hyderabad** *(2024 – 2027)*   
-  - **Diploma** in Computer Science & Engineering – **Samksruti College of Engineering and Technology, Ghatkesar, Hyderabad**  *(2021 – 2024)* 
+  - Pursuing **B.Tech in Computer Science & Engineering** – *Mahatma Gandhi Institute of Technology (MGIT), Hyderabad* *(2024 – 2027)*   
+  - **Diploma in Computer Science & Engineering** – *Samksruti College of Engineering and Technology, Hyderabad* *(2021 – 2024)*  
 - 💻 **Interests**: Software Development, Web Development, Quantum Computing  
 - 🌱 **Currently Learning**: Advanced Django, Quantum Computing  
 - 🎯 **Goal**: To create scalable and impactful solutions through software  
@@ -18,57 +18,55 @@ I’m passionate about technology, problem-solving, and building impactful proje
 
 ## 🛠️ Tech Stack  
 
-### 💻 Programming Languages 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30" />
+</p>
 
 ### 🌐 Web Development  
--Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
--Backend:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
--Database:
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-<!--
-- C, Python, Java, JavaScript  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30" /> &nbsp;
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=30" /> &nbsp;
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30" />
+</p>
 
-### 🌐 Web Development  
-- Frontend: HTML, CSS, JavaScript  
-- Backend: Django 
-- Database: MySQL
--->
 ### ⚙️ Tools & Platforms  
-- Git & GitHub  
-- VS Code  
-- Tableau
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoWidth=30" />
+</p>
+
 ---
 
 ## 🚀 Projects  
-Here are a few projects I’ve worked on:  
-- **College Vibes** 🎉 – A campus event management platform with WhatsApp notifications & certificate generation (Django + SQLite)
-- **Nextera** 📘 – An AI-powered adaptive learning platform (Django + SQLite)   
-- **To-Do Manager** ✅ – Task management app ( Node.js + MongoDB)  
+- 🎉 **College Vibes** – Campus event management platform with WhatsApp notifications & certificate generation *(Django + SQLite)*  
+- 📘 **Nextera** – AI-powered adaptive learning platform *(Django + SQLite)*  
+- ✅ **To-Do Manager** – Task management app *(Node.js + MongoDB)*  
 
 ---
 
 ## 📈 GitHub Stats  
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji78938&show_icons=true&theme=tokyonight)  
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji&layout=compact&theme=tokyonight)  
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balaji78938&show_icons=true&theme=tokyonight" alt="Balaji's GitHub Stats" />
+</p>
+
 ---
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/katam-balaji-402135282)  
-- 📧 Email: **mr.balaji4800@gmail.com**
--  📱 Mobile: **+91-79894 53343** 
-<!--
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
--->
+- 📧 **mr.balaji4800@gmail.com**  
+- 📱 **+91-79894 53343**  
+
 ---
 
 ⭐️ From [Katam Balaji](https://github.com/balaji78938)  
