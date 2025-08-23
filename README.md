@@ -20,8 +20,8 @@ I’m passionate about technology, problem-solving, and building impactful proje
 
 ### 💻 Programming Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=30" /> &nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white&logoWidth=30" /> &nbsp;
+  <img src="https://img.shields.io/badge/%E2%98%95%20Java-007396?style=for-the-badge" /> &nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&logoWidth=30" /> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30" />
 </p>
