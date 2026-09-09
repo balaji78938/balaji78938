@@ -113,7 +113,7 @@ I’m passionate about technology, problem-solving, and building impactful proje
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=balaji78938&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=balaji78938&theme=tokyonight" alt="GitHub Streak"  />
 </p>
 
 ---
