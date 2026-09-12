@@ -13,7 +13,7 @@ I’m passionate about technology, problem-solving, and building impactful proje
   * Pursuing **B.Tech in Computer Science & Engineering** – *Mahatma Gandhi Institute of Technology (MGIT), Hyderabad* *(2024 – 2027)*
   * **Diploma in Computer Science & Engineering** – *Samskruti College of Engineering and Technology, Hyderabad* *(2021 – 2024)*
 * 💻 **Interests**: Backend Development, Full Stack Development, Software Engineering, Problem Solving
-* 🌱 **Currently Learning**: **Spring Boot, Spring WebSocket, Backend Development & System Design**
+* 🌱 **Currently Learning**: **RAG, Backend Development & System Design**
 * 🎯 **Goal**: To build scalable and impactful software solutions
 * 🧠 **Problem Solving**: Practicing Data Structures & Algorithms on LeetCode
 
@@ -38,6 +38,7 @@ I’m passionate about technology, problem-solving, and building impactful proje
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+ <img src="https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
 
 ### 🗄️ Databases
